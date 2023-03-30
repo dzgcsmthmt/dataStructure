@@ -1,3 +1,4 @@
+//link https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/graph/dijkstra/dijkstra.js
 class Node {
     constructor(val, priority) {
       this.val = val;
